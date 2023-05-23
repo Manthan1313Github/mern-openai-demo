@@ -8,10 +8,8 @@ In the project directory, you can run:
 
 For Frontend
 
-### `npm run start:frontend`
+### `npm run start`
 
 For Backend
 
-### `npm run start:backend`
-
-
+### `npm run backend-start`
